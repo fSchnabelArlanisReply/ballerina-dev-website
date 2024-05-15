@@ -12,7 +12,7 @@ If you are new to Ballerina, you can download the [installers](https://ballerina
 New release now supports opening Ballerina gist files and repositories using the VS Code URL Us command.
 
 Use the below to open a gist file:
-  - `vscode://wso2.ballerina/open-file?gist=74cea880fefcb463d26a0c46f38fce39&file=hello_world.ba`l`
+  - `vscode://wso2.ballerina/open-file?gist=74cea880fefcb463d26a0c46f38fce39&file=hello_world.bal`
   - `vscode://wso2.ballerina/open-repo?repoUrl=https://github.com/wso2/choreo-sample-apps`
 
 ## Improvements
